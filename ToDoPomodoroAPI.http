@@ -1,0 +1,6 @@
+@ToDoPomodoroAPI_HostAddress = http://localhost:5177
+
+GET {{ToDoPomodoroAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
